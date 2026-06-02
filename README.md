@@ -82,8 +82,8 @@ I’m a **Web Developer & Designer** who enjoys building
   <a href="https://x.com/SreedharKP2006">
     <img src="https://skillicons.dev/icons?i=twitter" width="42"/>
   </a>
-<a href="https://kpsreedhar.github.io/portfolio/">
-    <span style="width:42">😉</span>
+<a href="https://kpsreedhar.github.io/Portfolio/">
+    <span style="width:72">😉</span>
 
 </p>
 

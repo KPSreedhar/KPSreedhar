@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  💻 Web Developer & Designer &nbsp;|&nbsp; 🎓 BCA Student &nbsp;|&nbsp; 🇮🇳 India
+  💻 Web Developer & Designer &nbsp;|&nbsp; 🎓 BCA Graduate nbsp;|&nbsp; 🧑‍💻 IT Support Intern &nbsp;|&nbsp; 🇮🇳 India
 </p>
 
 <p align="center">

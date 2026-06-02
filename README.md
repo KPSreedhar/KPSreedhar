@@ -47,7 +47,7 @@ I’m a **Web Developer & Designer** who enjoys building
 
 ### 🗂️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql, mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🌐 Web & UI

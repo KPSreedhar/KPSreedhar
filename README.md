@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishal-v-053a9128b">
+  <a href="https://www.linkedin.com/in/sreedhar-kp">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:v.vishal122005@gmail.com">
+  <a href="mailto:sreedharkp2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/vishal-vinayagam">
+  <a href="https://github.com/KPSreedhar">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/35b316e7-e1d7-4bcc-b810-cbc393585d97">
+  <a href="https://www.naukri.com/code360/profile/KPSreedhar">
     <img src="https://img.shields.io/badge/Naukri-0046BE?style=flat&logo=google&logoColor=white"/>
   </a>
 </p>
@@ -31,10 +31,10 @@ I’m a **Web Developer & Designer** who enjoys building
 **clean, user-friendly interfaces** and **real-world projects**.
 
 - 🎓 BCA Student (2023 – 2026)
-- 🚀 Learning **Spring Boot**
+- 🚀 Learning **Spring Boot**,**Azure**
 - 🌱 Exploring **Full-Stack Development**
 - 🧠 UI • Logic • Design
-- 🕷️ Secret **Spider-Man** (keep it secret 😄)
+- 🦇 Secret **Batman** (keep it secret 😄)
 
 ---
 
@@ -42,7 +42,12 @@ I’m a **Web Developer & Designer** who enjoys building
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php" />
+</p>
+
+### 🗂️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sql, mysql" />
 </p>
 
 ### 🌐 Web & UI
@@ -52,41 +57,34 @@ I’m a **Web Developer & Designer** who enjoys building
 
 ### 🎨 Design & Creative
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop,illustrator,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
 </p>
 
 ### ⚙️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,dotnet,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,dotnet,azure,ai,firebase" />
 </p>
-
----
-
-## 📸 Creative Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📷_Photography-Enthusiast-orange?style=for-the-badge"/>&nbsp;
-  <img src="https://img.shields.io/badge/🎨_Design-Creative_Mind-green?style=for-the-badge"/>
-</p>
-
 
 ---
 
 ## 🌍 Portfolio & Socials
 
 <p align="center">
-  <a href="https://www.github.com/vishal-vinayagam">
+  <a href="https://www.github.com/KPSreedhar">
     <img src="https://skillicons.dev/icons?i=github" width="42"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gitlab.com/vishal-vinayagam">
+  <a href="https://www.gitlab.com/KPSreedhar">
     <img src="https://skillicons.dev/icons?i=gitlab" width="42"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vishal-v-053a9128b">
+  <a href="https://www.linkedin.com/in/sreedhar-kp">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Vishal122005">
+  <a href="https://x.com/SreedharKP2006">
     <img src="https://skillicons.dev/icons?i=twitter" width="42"/>
   </a>
+<a href="https://kpsreedhar.github.io/portfolio/">
+    <img src="😉" width="42"/>
+
 </p>
 
 ---
@@ -94,7 +92,7 @@ I’m a **Web Developer & Designer** who enjoys building
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/vishal_">
+  <a href="https://www.buymeacoffee.com/kpsreedhar">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
   </a>
 </p>

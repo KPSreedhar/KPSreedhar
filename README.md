@@ -83,7 +83,7 @@ I’m a **Web Developer & Designer** who enjoys building
     <img src="https://skillicons.dev/icons?i=twitter" width="42"/>
   </a>
 <a href="https://kpsreedhar.github.io/portfolio/">
-    <img src="😉" width="42"/>
+     😉
 
 </p>
 

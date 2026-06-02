@@ -69,7 +69,7 @@ I’m a **Web Developer & Designer** who enjoys building
 
 ## 🌍 Portfolio & Socials
 
-<p align="center">
+<p align="left">
   <a href="https://www.github.com/KPSreedhar">
     <img src="https://skillicons.dev/icons?i=github" width="42"/>
   </a>&nbsp;&nbsp;&nbsp;

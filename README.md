@@ -89,11 +89,11 @@ I’m a **Web Developer & Designer** who enjoys building
 
 ---
 
-## ☕ Support Me
+## 💼 Hire Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kpsreedhar">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/>
+  <a href="https://www.linkedin.com/in/sreedhar-kp">
+    <img src="https://img.shields.io/badge/Hire_Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Hire Me on LinkedIn" height="40"/>
   </a>
 </p>
 

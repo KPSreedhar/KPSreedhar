@@ -1,104 +1,105 @@
-<h1 align="center">
-  Hi
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  , I'm Sreedhar KP
-</h1>
+<div align="center">
 
-<p align="center">
-  💻 Web Developer & Designer &nbsp;|&nbsp; 🎓 BCA Graduate &nbsp;|&nbsp; 🧑‍💻 IT Support Intern &nbsp;|&nbsp; 🇮🇳 India
-</p>
+# Sreedhar KP
+### Full-Stack Developer · UI/UX Designer · India 🇮🇳
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreedhar-kp">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:sreedharkp2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/KPSreedhar">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/KPSreedhar">
-    <img src="https://img.shields.io/badge/Naukri-0046BE?style=flat&logo=google&logoColor=white"/>
-  </a>
-</p>
+*BCA Graduate (2023–2026) · IT Support Intern · Currently mastering Spring Boot & Azure*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedhar-kp)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kpsreedhar.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreedharkp2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KPSreedhar)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I’m a **Web Developer & Designer** who enjoys building  
-**clean, user-friendly interfaces** and **real-world projects**.
+I'm a **Web Developer & Designer** who builds clean, user-friendly products — from UI mockups to full working apps.
 
-- 🎓 BCA Student (2023 – 2026)
-- 🚀 Learning **Spring Boot**,**Azure**
-- 🌱 Exploring **Full-Stack Development**
-- 🧠 UI • Logic • Design
-- 🦇 Secret **Batman** (keep it secret 😄)
+- 🎓 **BCA Student** (2023–2026) — strong foundation in CS fundamentals
+- 🚀 **Currently building with:** Spring Boot · Azure
+- 🌱 **Goal:** Full-Stack Developer role (Frontend-heavy, Java backend)
+- 🎨 **Superpower:** I design it in Figma before I code it
+- 🦇 Secret Batman *(don't tell anyone)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,php" />
-</p>
+**Languages**
 
-### 🗂️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### 🌐 Web & UI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery,tailwind,vite" />
-</p>
+**Web & UI**
 
-### 🎨 Design & Creative
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,dotnet,azure,ai,firebase" />
-</p>
+**Design**
 
----
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-## 🌍 Portfolio & Socials
+**Tools & Cloud**
 
-<p align="left">
-  <a href="https://www.github.com/KPSreedhar">
-    <img src="https://skillicons.dev/icons?i=github" width="42"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gitlab.com/KPSreedhar">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="42"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sreedhar-kp">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/SreedharKP2006">
-    <img src="https://skillicons.dev/icons?i=twitter" width="42"/>
-  </a>
-<a href="https://kpsreedhar.github.io/Portfolio/">
-    <span style="width:72">😉</span>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
-## 💼 Hire Me
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreedhar-kp">
-    <img src="https://img.shields.io/badge/Hire_Me-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Hire Me on LinkedIn" height="40"/>
-  </a>
-</p>
+> *Add 2–3 of your best projects below. One line per project — what it does, what you built it with.*
+
+| Project | Description | Stack |
+|---|---|---|
+| 🌐 [Portfolio](https://kpsreedhar.github.io/Portfolio/) | Personal portfolio showcasing projects & design work | React · Tailwind · Vite |
+| 🔧 *[Project Name]* | *Short, punchy description of what it does and why it matters* | *Java · Spring Boot · MySQL* |
+| 🎨 *[Project Name]* | *Another project — ideally a live link or demo* | *HTML · CSS · JS* |
 
 ---
 
-<p align="center">
-  <em>✨ Always learning, always building. Open to opportunities.</em>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sreedhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPSreedhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPSreedhar&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm actively looking for **internship and entry-level opportunities** in Web Development or IT.
+
+[![Hire Me on LinkedIn](https://img.shields.io/badge/Hire_Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedhar-kp)
+&nbsp;
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreedharkp2006@gmail.com)
+
+*✨ Always learning. Always building. Open to opportunities.*
+
+</div>

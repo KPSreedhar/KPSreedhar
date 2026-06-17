@@ -81,7 +81,7 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 
 <div align="center">
 
-![Sreedhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPSreedhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=KPSreedhar&theme=tokyonight&no-frame=true&row=1&column=6)
 &nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPSreedhar&layout=compact&theme=tokyonight&hide_border=true)
 

@@ -73,8 +73,7 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 | Project | Description | Stack |
 |---|---|---|
 | 🌐 [Portfolio](https://kpsreedhar.github.io/Portfolio/) | Personal portfolio showcasing projects & design work | React · Tailwind · Vite |
-| 🔧 *[Project Name]* | *Short, punchy description of what it does and why it matters* | *Java · Spring Boot · MySQL* |
-| 🎨 *[Project Name]* | *Another project — ideally a live link or demo* | *HTML · CSS · JS* |
+| 🎨 *[Whack a Mole]* | *A fun and interactive browser-based Whack-a-Mole game* | *HTML · CSS · JS* |
 
 ---
 

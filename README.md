@@ -81,8 +81,7 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=KPSreedhar&theme=tokyonight&no-frame=true&row=1&column=6)
-&nbsp;&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=KPSreedhar&color=0078D4&style=for-the-badge)&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPSreedhar&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>

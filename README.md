@@ -22,8 +22,8 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 - 🚀 **Currently building with:** Spring Boot · Azure
 - 🌱 **Goal:** Full-Stack Developer role (Frontend-heavy, Java backend)
 - 🎨 **Superpower:** If I imagine something, I can build it
-- 🦇 Part-time Batman, Full-time Developer
 - ✍️ **Poetry Lover:** Writing heartfelt Tamil kavithaigal inspired by life, emotions, and imagination.
+- 🦇 Part-time **Batman**, Full-time **Developer**
 ---
 
 ## 🛠️ Tech Stack

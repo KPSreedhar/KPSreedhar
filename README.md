@@ -68,12 +68,13 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 
 ## 🚀 Featured Projects
 
-> *Add 2–3 of your best projects below. One line per project — what it does, what you built it with.*
-
 | Project | Description | Stack |
 |---|---|---|
 | 🌐 [Portfolio](https://kpsreedhar.github.io/Portfolio/) | Personal portfolio showcasing projects & design work | React · Tailwind · Vite |
+| 🎨 *[Cadeathon]([https://kpsreedhar.github.io/Whack-a-Mole/](https://codeathoncontest.netlify.app/))* | *Codeathon 2026 — Fix the Code Contest* | *React . HTML · CSS · JS* |
+| 🎨 *[Loader Lab](https://kpsreedhar.github.io/Loader-Lab/)* | *A growing catalog of loading animations, sorted into the field, with the exact CSS behind each one. Pick a specimen, copy the code, ship it.* | *HTML · CSS · JS* |
 | 🎨 *[Whack a Mole](https://kpsreedhar.github.io/Whack-a-Mole/)* | *A fun and interactive browser-based Whack-a-Mole game* | *HTML · CSS · JS* |
+
 
 ---
 

@@ -20,7 +20,7 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 
 - 🎓 **BCA Student** (2023–2026) — strong foundation in CS fundamentals
 - 🚀 **Currently building with:** Spring Boot · Azure
-- 🌱 **Goal:** Full-Stack Developer role (Frontend-heavy, Java backend)
+- 🌱 **Goal:** Developer role (Strong foundation in Frontend, can adapt to any programming language)
 - 🎨 **Superpower:** If I imagine something, I can build it
 - ✍️ **Poetry Lover:** Writing heartfelt Tamil kavithaigal inspired by life, emotions, and imagination.
 - 🦇 Part-time **Batman**, Full-time **Developer**

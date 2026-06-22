@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sreedhar KP
-### Full-Stack Developer · UI/UX Designer · India 🇮🇳
+### Developer · UI/UX Designer · India 🇮🇳
 
 *BCA Graduate (2023–2026) · IT Support Intern · Currently mastering Spring Boot & Azure*
 

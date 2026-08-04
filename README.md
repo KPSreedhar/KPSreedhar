@@ -18,9 +18,9 @@
 
 I'm a **Web Developer & Designer** who builds clean, user-friendly products — from UI mockups to full working apps.
 
-- 🎓 **BCA Student** (2023–2026) — strong foundation in CS fundamentals
-- 🚀 **Currently building with:** Spring Boot · Azure
-- 🌱 **Goal:** Developer role (Strong foundation in Frontend, can adapt to any programming language)
+- 🎓 **BCA Graduate** (2023–2026) — strong foundation in CS fundamentals
+- 🚀 **Currently upskilling with:** Spring Boot · Azure
+- 🌱 **Goal:** Developer role (Strong foundation in Frontend, can adapt to any programming language, worked with multipleDB)
 - 🎨 **Superpower:** If I imagine something, I can build it
 - ✍️ **Poetry Lover:** Writing heartfelt Tamil kavithaigal inspired by life, emotions, and imagination.
 - 🦇 Part-time **Batman**, Full-time **Developer**
@@ -31,11 +31,11 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Web & UI**
 

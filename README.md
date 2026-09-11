@@ -71,9 +71,10 @@ I'm a **Web Developer & Designer** who builds clean, user-friendly products — 
 | Project | Description | Stack |
 |---|---|---|
 | 🌐 [Portfolio](https://kpsreedhar.github.io/Portfolio/) | Personal portfolio showcasing projects & design work | *HTML5 . CSS3 . JavaScript* |
-| 🎨 *[LoaderLab](https://github.com/KPSreedhar/Loader-Lab)* | *LoaderLab — Get 30+ Loading desings with sourcecode* | *React . SpringBoot. JAVA* |
-| 🎨 *[Happy Cards](https://vishal-vinayagam.github.io/Happy-Cards---Create-Beautiful-Invitations/)* |*A team Project named Happy Cards is a customizable card-designing site* | *HTML · CSS · JS* |
-| 🎨 *[Whack a Mole](https://kpsreedhar.github.io/Whack-a-Mole/)* | *A fun and interactive browser-based Whack-a-Mole game* | *HTML · CSS · JS* |
+| 🔄 *[LoaderLab](https://github.com/KPSreedhar/Loader-Lab)* | *LoaderLab — Get 30+ Loading desings with sourcecode* | *React . SpringBoot. JAVA* |
+| 🗄️ *[IT Assets Management](https://github.com/KPSreedhar/IT-Assets-Manager)* |* A responsive database and site to maintain your office's IT Assets* | *PHP · MySQL · XAMPP* |
+| 🔨 *[Whack a Mole](https://kpsreedhar.github.io/Whack-a-Mole/)* | *A fun and interactive browser-based Whack-a-Mole game* | *HTML · CSS · JS* |
+| 🎮 *[Maze Master](https://mazemasterv2.netlify.app/)* | *A fun and interactive browser-based Maze Escape game with difficulty levels* | *React · React Router · Vite* |
 
 
 ---
